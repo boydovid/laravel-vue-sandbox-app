@@ -1,0 +1,7 @@
+db/
+client/node_modules/
+server/vendor/
+server/.env
+server/storage/*.key
+server/.bash_history
+server/.rnd
